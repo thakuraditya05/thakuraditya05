@@ -136,8 +136,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thakuraditya05/thakuraditya05/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+--- 
+## 👨‍💻 Developer
 
-
-
-
+Aditya Singh
+* **GitHub**: @thakur-aditya05 & @thakuraditya05
+* **Skills**: Development & Machine Learning  
+---
