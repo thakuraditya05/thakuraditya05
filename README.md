@@ -142,6 +142,6 @@
 ## 👨‍💻 Developer
 
 Aditya Singh
-* **GitHub**: @thakur-aditya05 & @thakuraditya05
+* **GitHub**: @thakuraditya05(Project Deployment Account) & @thakur-aditya05(only for Tech Notes Account)
 * **Skills**: Full-Stack MERN Development, Data Science and Machine Learning  
 ---
