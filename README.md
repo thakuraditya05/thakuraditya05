@@ -6,9 +6,9 @@
 
 <br clear="both">
 
-<h1 align="left">👩‍💻  About Me</h1>
----
-###
+## 👩‍💻 About Me
+
+
 
 <img align="right" height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
@@ -20,9 +20,9 @@
 
 <br clear="both">
 
-<h3 align="left">🛠 Language and tools</h3>
-
+### 🛠 Language and tools
 ---
+
 ###
 
 <br clear="both">
@@ -110,7 +110,7 @@
 
 ###
 
-<h2 align="left">🤝Let's Connect 🚀</h2>
+### 🤝Let's Connect
 ---
 
 ###
