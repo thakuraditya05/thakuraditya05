@@ -126,6 +126,8 @@
 
 ###
 
+
+## 🚀 Processing Commits...
 ---
 
 <br clear="both">
@@ -141,5 +143,5 @@
 
 Aditya Singh
 * **GitHub**: @thakur-aditya05 & @thakuraditya05
-* **Skills**: Development & Machine Learning  
+* **Skills**: Full-Stack MERN Development, Data Science and Machine Learning  
 ---
