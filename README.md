@@ -7,7 +7,7 @@
 <br clear="both">
 
 <h1 align="left">👩‍💻  About Me</h1>
-
+---
 ###
 
 <img align="right" height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -111,6 +111,7 @@
 ###
 
 <h2 align="left">🤝Let's Connect 🚀</h2>
+---
 
 ###
 
@@ -127,6 +128,8 @@
 
 ###
 
+---
+
 <br clear="both">
 
 <picture>
@@ -136,6 +139,7 @@
 </picture>
 
 ###
+
 
 
 
