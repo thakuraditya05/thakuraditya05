@@ -4,16 +4,16 @@
   <img src="svgs/header_en.svg" width="100%" alt="Aditya Singh Header" />
 </div>
 
-
-
-## 👩‍💻About Me
 ---
+## 👩‍💻 About Me 
+---
+<p align="left">Namaste! I'm Aditya 👋<br><br>- 🔭  I’m an ECE student at NIT-B with a deep passion for coding and software development.<br>- ⚡ Full-stack expertise in MERN, from secure user authentication to production-ready deployment.<br>- 📚 Diving deep into Machine Learning, Deep Learning, and Artificial Intelligence.</p>
 
 <img align="right" height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 
 
-<p align="left">Namaste! I'm Aditya 👋<br><br>- 🔭  I’m an ECE student at NIT-B with a deep passion for coding and software development.<br>- ⚡ Full-stack expertise in MERN, from secure user authentication to production-ready deployment.<br>- 📚 Diving deep into Machine Learning, Deep Learning, and Artificial Intelligence.</p>
+
 
 ###
 
